@@ -44,5 +44,21 @@ a {
 }
 
 .title {
+    font-size: 28px;
+    font-weight: 900;
+}
 
+.titletext {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.heroleft {
+    width: 300px;
+}
+
+.herobutton {
+    box-sizing: border-box;
+    padding: 2px 10px;
+    border-radius: 5px;
 }
