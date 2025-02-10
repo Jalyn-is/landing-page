@@ -125,6 +125,7 @@ a {
     justify-content: center;
     /* using margins */
     margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 .qoute {
