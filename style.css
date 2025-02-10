@@ -160,3 +160,10 @@ a {
     font-weight: 900;
     font-size: 19px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
