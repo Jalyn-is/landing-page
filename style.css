@@ -132,3 +132,31 @@ a {
     width: 600px;
     font-size: 36px;
 }
+
+.call2action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: #3882F6;
+    padding: 22px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    gap: 80px;
+    color: #ffffff;
+}
+
+.cta {
+    box-sizing: border-box;
+    padding: 5px 13px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    border: 2px solid #ffffff;
+    font-weight: 900;
+    color: azure;
+}
+
+.actionbold {
+    font-weight: 900;
+    font-size: 19px;
+}
