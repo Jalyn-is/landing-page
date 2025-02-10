@@ -93,14 +93,27 @@ a {
     justify-content: center;
     margin-bottom: 32px;
     margin-top: 32px;
+    font-size: 38px;
+    font-weight: 900;
 }
 
 .bigbox {
     display: flex;
     justify-content: space-evenly;
     gap: 30px;
+    text-align: center;
 }
 
 .box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.contentbox {
+    width: 150px;
+    height: 150px;
+    border: 3px;
+    border: 3px solid #4783c7;
+    border-radius: 10px;
 }
