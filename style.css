@@ -1,4 +1,4 @@
-/* @import soon */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
     margin: 0;
@@ -6,7 +6,7 @@
 }
 
 body {
-    /* font family etc and probaly the backgrounf color*/
+    font-family: roboto;
     min-height: 100vh;
 }
 
